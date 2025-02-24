@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "MyTvList",
+      "name": "我的采集接口",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "wallpaper": "https://picsum.photos/1080/1920", // 可选：随机背景图
+  "spider": "" // 可选：如果需要自定义解析，填写爬虫 JAR 文件地址
+}
