@@ -2,57 +2,12 @@
   "sites": [
     {
       "key": "heimuer_json02",
-      "name": "KOO",
-      "type": 2, // 标准 JSON 接口
+      "name": "我的采集接口",
+      "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "searchable": 1, // 支持搜索
-      "quickSearch": 1, // 支持快速搜索
-      "filterable": 0, // 不支持筛选（如果接口支持筛选，可以设为 1）
-      "ext": "", // 可选：附加参数（如 Token），目前为空
-      "playUrl": "", // 可选：播放地址前缀或格式化规则，留空使用默认
-      "categories": [ // 分类列表（基于接口返回的 "class"）
-        {"type_id": 1, "type_name": "电影"},
-        {"type_id": 2, "type_name": "电视剧"},
-        {"type_id": 3, "type_name": "动漫"},
-        {"type_id": 4, "type_name": "综艺"},
-        {"type_id": 6, "type_name": "剧情片"},
-        {"type_id": 7, "type_name": "动作片"},
-        {"type_id": 8, "type_name": "喜剧片"},
-        {"type_id": 9, "type_name": "爱情片"},
-        {"type_id": 10, "type_name": "科幻片"},
-        {"type_id": 11, "type_name": "恐怖片"},
-        {"type_id": 12, "type_name": "悬疑片"},
-        {"type_id": 13, "type_name": "国产剧"},
-        {"type_id": 14, "type_name": "美剧"},
-        {"type_id": 15, "type_name": "韩剧"},
-        {"type_id": 16, "type_name": "日剧"},
-        {"type_id": 20, "type_name": "记录片"},
-        {"type_id": 21, "type_name": "微电影"},
-        {"type_id": 22, "type_name": "短视频"},
-        {"type_id": 23, "type_name": "体育片"},
-        {"type_id": 24, "type_name": "游戏片"},
-        {"type_id": 25, "type_name": "科教片"},
-        {"type_id": 26, "type_name": "动画电影"},
-        {"type_id": 27, "type_name": "综艺"},
-        {"type_id": 28, "type_name": "真人秀"},
-        {"type_id": 29, "type_name": "脱口秀"},
-        {"type_id": 30, "type_name": "访谈"},
-        {"type_id": 31, "type_name": "音乐"},
-        {"type_id": 32, "type_name": "舞蹈"},
-        {"type_id": 33, "type_name": "战争片"},
-        {"type_id": 34, "type_name": "历史片"},
-        {"type_id": 35, "type_name": "传记片"},
-        {"type_id": 36, "type_name": "冒险片"},
-        {"type_id": 37, "type_name": "奇幻片"},
-        {"type_id": 38, "type_name": "儿童片"},
-        {"type_id": 39, "type_name": "家庭片"},
-        {"type_id": 40, "type_name": "青春片"},
-        {"type_id": 41, "type_name": "励志片"},
-        {"type_id": 42, "type_name": "文艺片"},
-        {"type_id": 43, "type_name": "惊悚片"}
-      ]
+      "searchable": 1, // 启用搜索功能
+      "quickSearch": 1, // 启用快速搜索
+      "filterable": 0
     }
-  ],
-  "wallpaper": "https://picsum.photos/1080/1920", // 可选：随机背景图，提升美观度
-  "spider": "" // 如果需要自定义解析，可填入 spider.jar 地址，目前留空
+  ]
 }
