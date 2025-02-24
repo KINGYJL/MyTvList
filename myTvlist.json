@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "MyTvList",
-      "name": "我的采集接口",
+      "key": "heimuer_json02",
+      "name": "KO",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
