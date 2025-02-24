@@ -3,7 +3,7 @@
     {
       "key": "heimuer_json02",
       "name": "KOO",
-      "type": 1, // 标准 JSON 接口
+      "type": 3, // 标准 JSON 接口
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1, // 支持搜索
       "quickSearch": 1, // 支持快速搜索
