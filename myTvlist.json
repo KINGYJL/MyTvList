@@ -3,7 +3,7 @@
     {
       "key": "heimuer_json02",
       "name": "我的采集接口",
-      "type": 3,
+      "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1, // 启用搜索功能
       "quickSearch": 1, // 启用快速搜索
