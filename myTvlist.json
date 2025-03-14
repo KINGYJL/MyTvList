@@ -10,4 +10,17 @@
       "filterable": 0
     }
   ]
+},
+{
+  "sites": [
+    {
+      "key": "heimuer_json02",
+      "name": "heimuer",
+      "type": 1,
+      "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+      "searchable": 1, // 启用搜索功能
+      "quickSearch": 1, // 启用快速搜索
+      "filterable": 0
+    }
+  ]
 }
