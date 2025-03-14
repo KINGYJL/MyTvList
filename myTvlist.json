@@ -14,8 +14,8 @@
 {
   "sites": [
     {
-      "key": "heimuer_json02",
-      "name": "heimuer",
+      "key": "cjhwba",
+      "name": "华为吧",
       "type": 1,
       "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
       "searchable": 1, // 启用搜索功能
