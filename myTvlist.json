@@ -9,9 +9,7 @@
       "quickSearch": 1, // 启用快速搜索
       "filterable": 0
     }
-  ]
-},
-{
+  ],
   "sites": [
     {
       "key": "heimuer_json02",
