@@ -19,37 +19,7 @@
       "filterable": 1
     },
     {
-      "key": "qilin",
-      "name": "麒麟资源",
-      "type": 1,
-      "api": "http://www.qilinzyz.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-  "key": "影视工厂",
-  "name": "影视 | 影视工厂",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-},
-{
-  "key": "DiDuan",
-  "name": "低端┃蓝光┃外剧",
-  "type": 3,
-  "api": "csp_Ddrk",
-  "jar": "https://gitee.com/lukei7/lib/raw/Luck/moyu.php",
-  "playerType": "2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
-  "key": "索尼资源",
+      "key": "索尼资源",
   "name": "🎀索尼采集",
   "type": 1,
   "api": "https://suoniapi.com/api.php/provide/vod/",
