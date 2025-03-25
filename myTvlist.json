@@ -19,13 +19,13 @@
       "filterable": 1
     },
     {
-      "key": "索尼资源",
-      "name": "🎀索尼采集",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "key": "lzi",
+      "name": "量子资源",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ]
 }
