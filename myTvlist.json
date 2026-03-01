@@ -1,46 +1,37 @@
 {
   "sites": [
     {
-      "key": "heimuer",
-      "name": "黑幕儿",
-      "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "ffzy",
-      "name": "非凡资源",
-      "type": 0,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
+      "key": "zuidazy",
+      "name": "最大资源网",
+      "type": 1, 
+      "api": "https://www.zuidazy.co/api.php/provide/vod/from/zuidam3u8/at/json/",
+      "searchable": 1, 
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "lzi",
       "name": "量子资源",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "gay",
-      "name": "gay",
       "type": 1,
-      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "zuidazy",
-      "name": "最大资源网",
-      "type": 1, 
-      "api": "https://www.zuidazy.co/api.php/provide/vod/from/zuidam3u8/at/json/",
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪华蓝光",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
