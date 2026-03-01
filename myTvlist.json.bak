@@ -37,13 +37,13 @@
       "filterable": 1
     },
     {
-      "key": "zuidazy",
-      "name": "最大资源网",
-      "type": 1, 
-      "api": "https://www.zuidazy.co/api.php/provide/vod/from/zuidam3u8/at/json/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    "key": "zuidazy",
+    "name": "最大资源网",
+    "type": 1, 
+    "api": "https://www.zuidazy.co/api.php/provide/vod/from/zuidam3u8/at/json/",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
     }
   ]
 }
